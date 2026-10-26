@@ -1,0 +1,6 @@
+{
+  "name": "TripWise AI — Tourism Intelligence Platform",
+  "description": "AI-powered Tourism Intelligence & Operations Platform for India featuring crowd analytics, predictive demand forecasting, pricing audits, and agentic workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
